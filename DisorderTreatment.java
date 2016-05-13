@@ -12,7 +12,7 @@
 
 public class DisorderTreatment {
 	
-	public void main(String args[]) {
+	public static void main(String[] args) {
 	
 // The int will be which disorder the patient has
 		
